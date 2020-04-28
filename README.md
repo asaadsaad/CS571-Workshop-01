@@ -1,4 +1,4 @@
-# CS571 Homework 07
+# CS571 Workshop 01
 ## Contacts Workshop
 * Create a new React Native application with Expo CLI. 
 * Add `contacts.js` file to your project and install `react-native-uuid` and `buffer` dependencies.
