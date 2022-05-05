@@ -4,6 +4,7 @@
 * Copy the `contacts.js` file into your project and install `react-native-uuid` and `buffer` dependencies. Examine the file content and note that this file has a default export for an array of `contacts`, and two other exported methods: 
   * `compareNames` to sort an array of objects by `name`
   * `generateUUID` to generate a unique ID for contacts
+* Every contact has the following structure: `{ id, name, phone }`
 * Add two buttons to `App` to toggle displaying the following components:
   * `ListContacts`: List of contacts.
   * `NewContact`: Add new contact.
