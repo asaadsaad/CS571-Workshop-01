@@ -1,4 +1,4 @@
-# CS571 Workshop 01
+# CS571 Workshop
 ## Contacts Workshop
 * Create a new React Native application with Expo CLI. 
 * Copy the `contacts.js` file into your project and install `react-native-uuid` and `buffer` dependencies. Examine the file content and note that this file has a default export for an array of `contacts`, and two other exported methods: 
